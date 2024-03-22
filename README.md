@@ -1,9 +1,45 @@
-# hand-gesture-recognition-using-mediapipe
-Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
-program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
-<br> ❗ _️**This is English Translated version of the [original repo](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe). All Content is translated to english along with comments and notebooks**_ ❗
+<h1 align="center">Gesture Recognition System</h1>
+<h3 align="center">"HI, OK, Bye"</h3>
+
+<p align="center">About the project</p>
+<p align="center">
+    <img src="https://img.shields.io/github/forks/nandita27iitp/gesture-recognition-system">
+    <img src="https://img.shields.io/github/stars/nandita27iitp/gesture-recognition-system"><br><br>
+    Estimate hand pose using MediaPipe (Python version).<br> This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
 <br> 
-![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
+    ![](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
+
+</p>
+
+<p align="center">Tech Stack</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/mongoDB-%234DB33D.svg?style=for-the-badge&logo=mongoDB&logoColor=3FA037"> 
+    <img src="https://img.shields.io/badge/express-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/node-%234DB33D?style=for-the-badge&logo=node.js&logoColor=3FA037">
+</p>
+<br>
+
+## Inspiration for the Project:
+
+Building a tool to address challenges such as managing finances, tracking expenses, or setting and achieving savings goals can be both practical and personally rewarding.
+
+There's a growing demand for digital tools that help individuals manage their finances more effectively. With the increasing adoption of online banking and digital transactions, there's a need for comprehensive solutions that offer budgeting, expense tracking, and goal setting functionalities. 
+
+Many people lack basic financial literacy skills, such as budgeting and saving. Building an application that simplifies these concepts and helps users develop better financial habits can contribute to financial empowerment and education.
+
+## Features of FinWise at a Glance:
+
+| Function | Feature | Image |
+| --- | ----------- | -------|
+| Registration and Login | Allow user to login or create a new account | # |
+| Home Page | Listing all posted entry and exit transactions | # |
+| Current balance display | Provide contact details to get emergency medical services | # |
+| Searched period filtering | "All" / "7 days" / "15 days" / "30 days" | # |
+| Category management for inputs or outputs | # | # |
+| Category filtering | # | # |
+
+----
 
 This repository contains the following contents.
 * Sample program
