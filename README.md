@@ -6,40 +6,29 @@
     <img src="https://img.shields.io/github/forks/nandita27iitp/gesture-recognition-system">
     <img src="https://img.shields.io/github/stars/nandita27iitp/gesture-recognition-system"><br><br>
     Estimate hand pose using MediaPipe (Python version).<br> This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
-<br> 
-    ![](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
+<br>
+
+![](https://github.com/nandita27iitp/gesture-recognition-system/blob/main/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
 
 </p>
 
 <p align="center">Tech Stack</p>
 <p align="center">
-    <img src="https://img.shields.io/badge/mongoDB-%234DB33D.svg?style=for-the-badge&logo=mongoDB&logoColor=3FA037"> 
-    <img src="https://img.shields.io/badge/express-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/node-%234DB33D?style=for-the-badge&logo=node.js&logoColor=3FA037">
+    <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mediapipe-%231572B6.svg?style=for-the-badge&logo=MediaPipe&logoColor=white">
+    <img src="https://img.shields.io/badge/tensorflow-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit-%231572B6.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/openCV-%23323330.svg?style=for-the-badge&logo=openCV&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/jupyter-FF6C37?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/matplotlib-%23323330.svg?style=for-the-badge&logo=matplotlib&logoColor=%23F7DF1E">
 </p>
 <br>
 
 ## Inspiration for the Project:
 
-Building a tool to address challenges such as managing finances, tracking expenses, or setting and achieving savings goals can be both practical and personally rewarding.
-
-There's a growing demand for digital tools that help individuals manage their finances more effectively. With the increasing adoption of online banking and digital transactions, there's a need for comprehensive solutions that offer budgeting, expense tracking, and goal setting functionalities. 
-
-Many people lack basic financial literacy skills, such as budgeting and saving. Building an application that simplifies these concepts and helps users develop better financial habits can contribute to financial empowerment and education.
-
-## Features of FinWise at a Glance:
-
-| Function | Feature | Image |
-| --- | ----------- | -------|
-| Registration and Login | Allow user to login or create a new account | # |
-| Home Page | Listing all posted entry and exit transactions | # |
-| Current balance display | Provide contact details to get emergency medical services | # |
-| Searched period filtering | "All" / "7 days" / "15 days" / "30 days" | # |
-| Category management for inputs or outputs | # | # |
-| Category filtering | # | # |
-
-----
+With the rapid advancements in sensor technology, CV, and ML algorithms and being inspired by the latest technological capabilities has driven the development of innovative solutions in this field.<br><br>
+Gesture recognition technology has the potential to improve accessibility for individuals with disabilities. It can be used in healthcare for applications such as rehabilitation, assistive technology, and remote patient monitoring. Inspired by the potential to improve healthcare outcomes and patient experiences, gesture recognition systems that enable people with limited mobility to interact with computers and devices more effectively, opening up new opportunities for communication and control.<br><br>
+They also enhance user experiences in various domains such as gaming, virtual reality, augmented reality, and provide interactive learning experiences, skill training, and simulations. They can be used for security and surveillance applications such as gesture-based authentication, behavior analysis, and anomaly detection.<br>
 
 This repository contains the following contents.
 * Sample program
@@ -175,12 +164,3 @@ The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "T
 
 # Reference
 * [MediaPipe](https://mediapipe.dev/)
-
-# Author
-Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
-
-# Translation and other improvements
-Nikita Kiselov(https://github.com/kinivi)
- 
-# License 
-hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
